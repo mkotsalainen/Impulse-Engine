@@ -1,0 +1,73 @@
+8
+
+dir
+206
+file:///users/matti/Documents/repository/flash/impulse%20engine/impulse
+file:///users/matti/Documents/repository
+
+
+
+2007-04-05T13:32:38.640625Z
+197
+Matti Kotsalainen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e57211fb-ce13-8240-8c70-95fd25b6a387
+
+Settings.as
+file
+
+
+
+
+2007-09-27T08:06:34.000000Z
+ff04650852ad7cf470e62a4a3fb2ef7b
+2007-04-05T13:32:38.640625Z
+197
+Matti Kotsalainen
+
+SpriteDragger.as
+file
+
+
+
+
+2007-09-27T08:06:34.000000Z
+2d77c3cde37c6cd78972caf5fb6649a9
+2006-09-29T18:04:49.287098Z
+75
+matti
+
+display
+dir
+
+core
+dir
+
+SpriteForcer.as
+file
+
+
+
+
+2007-09-27T08:06:34.000000Z
+120140c63ab542dab4eeda6105ed1316
+2007-04-05T13:32:03.390625Z
+196
+Matti Kotsalainen
+
+util
+dir
+
